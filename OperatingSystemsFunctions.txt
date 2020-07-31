@@ -1,0 +1,1 @@
+One operating system function is to manage allocation of computer hardware. It keeps all of the hardware running smoothly. Without it the hardware would be a mess.
