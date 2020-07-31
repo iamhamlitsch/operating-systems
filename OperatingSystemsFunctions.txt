@@ -1,1 +1,2 @@
 One operating system function is to manage allocation of computer hardware. It keeps all of the hardware running smoothly. Without it the hardware would be a mess.
+Another operating system function is security. This feature keeps your computer safe from viruses,  malware and possibly hackers wishing to do harm. This is an important feature. 
